@@ -4,7 +4,7 @@
 #na variável repositório, prefira a url do repositório baseada em https para nao termos que configurar SSH
 export name='Gabrili Letícia de Souza'
 export email="gabrieli.souza24@Etec.sp.gov.br"
-export repositorio="";
+export repositorio="https://github.com/gabrielileticiadesouza/pam1.git";
 
 #Daqui pra baixo mexa somente se for realmente necessário ou se souber o que está fazendo :P
 
